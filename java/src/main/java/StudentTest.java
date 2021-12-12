@@ -11,7 +11,8 @@ public class StudentTest {
         student.setUserName("zhangsan");
 
         System.out.println(student);
-        System.out.println("AAAA");
+        System.out.println("dev-member分支测试");
+        System.out.println("dev-member分支测试");
 
     }
 
