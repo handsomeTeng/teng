@@ -12,6 +12,8 @@ public class StudentTest {
 
         System.out.println(student);
         System.out.println("AAAA");
+        System.out.println("BBB");
+        System.out.println("Ccc");
         System.out.println("master分支");
 
     }
