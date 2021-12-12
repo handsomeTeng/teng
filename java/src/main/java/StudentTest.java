@@ -12,6 +12,7 @@ public class StudentTest {
 
         System.out.println(student);
         System.out.println("AAAA");
+        System.out.println("master分支");
 
     }
 
