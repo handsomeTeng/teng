@@ -11,6 +11,7 @@ public class StudentTest {
         student.setUserName("zhangsan");
 
         System.out.println(student);
+        System.out.println("AAAA");
 
     }
 
